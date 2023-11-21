@@ -25,7 +25,8 @@ This Weather App is a dynamic web application that provides real-time weather in
 3. Explore additional details such as forecast and geolocation support.
 
 ## Screenshots
-![Weather App Screenshot](C:\Users\PC\Videos\Captures)
+![Weather App Screenshot]![Uploading Weather App - Google Chrome 11_21_2023 9_16_19 AM.png…]()
+
 
 ## Future Enhancements
 - Incorporate additional weather data such as precipitation and UV index.
